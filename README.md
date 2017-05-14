@@ -9,4 +9,5 @@ This app was written using HTML, CSS and Javascript and was intended to be confi
 For an explanation of features, check out our demo video at this link
 https://www.youtube.com/watch?v=tFksPVydz9o&feature=youtu.be
 
+This app is still in development.
 
